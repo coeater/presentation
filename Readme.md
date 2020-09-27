@@ -8,7 +8,7 @@ https://github.com/coeater/coeater-android
 https://github.com/coeater/coeater-android
 
 ## Presentation
-https://github.com/coeater/presentation/blob/master/Co-Eater_v2.pdf
+https://github.com/coeater/presentation/blob/master/Co-Eater_v3.pdf
 
 
 ## Developing Schedule
