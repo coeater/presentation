@@ -2,7 +2,7 @@
 # Co-Eater Project
 
 ## Server Repo
-https://github.com/coeater/coeater-android
+https://github.com/coeater/coeater-signalserver
 
 ## Client Repo
 https://github.com/coeater/coeater-android
